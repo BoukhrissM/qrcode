@@ -1,5 +1,5 @@
 QR Code Generator Readme
-This QR code generator is a simple tool that allows you to generate and download a QR code that can be used to share a link. The tool is licensed under the MIT License and was created by Brad Traversy2.
+This QR code generator is a simple tool that allows you to generate and download a QR code that can be used to share a link. The tool is licensed under the MIT License and was created by boukhrissM.
 Features
 Generates QR codes that can be used to share a link.
 Simple and easy to use.
